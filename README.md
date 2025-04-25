@@ -64,6 +64,6 @@ This dashboard is intended for:
 ## Technical Details
 
 * **Data Visualization Tool:** \[Power BI]
-* **Data Source:** \[Name of the dataset from Kaggle]
+* **Data Source:** \[sales-data-sample.csv]
 
 
